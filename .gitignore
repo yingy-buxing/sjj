@@ -1,0 +1,15 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+# Local runtime settings and downloaded model weights
+person_monitor_settings.json
+*.pt
+*.pt.download
+
+# Local packages/build outputs
+*.zip
+dist/
+build/
+
